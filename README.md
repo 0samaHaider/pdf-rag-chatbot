@@ -47,5 +47,3 @@ I cannot find this information in the provided documents.
 * Multiple PDF support
 * Chat history
 * Larger open-source LLMs
-
-If you want, I can **also write a 3–4 line LinkedIn post** to launch this project 🚀
