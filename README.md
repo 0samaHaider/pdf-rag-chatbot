@@ -1,4 +1,4 @@
-# 📄 PDF RAG Chatbot
+# PDF RAG Chatbot
 
 A **Retrieval-Augmented Generation (RAG)** chatbot to ask questions on **PDF documents**. Answers are **grounded in your document**, using **BERT embeddings + GPT-2/T5 + ChromaDB**.
 
